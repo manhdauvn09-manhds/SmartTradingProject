@@ -1,0 +1,6 @@
+pydantic
+sqlalchemy
+requests
+urllib3
+schedule
+Flask
